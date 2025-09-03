@@ -1,0 +1,34 @@
+* {scroll-behavior: smooth;} 
+/* #main_nav {
+  position: fixed;
+  width: 100%;
+}
+.banner-wrapper {
+  position: relative;
+  top: 60px;
+} */
+.navbar-brand {
+  width: 13rem;
+}
+.navbar-brand img {
+  width: 100%;
+  display: block;
+}
+#confian-section .col-md-3  {
+  vertical-align: middle;
+}
+.collage .confia {
+  margin: 2rem;
+}
+.collage img {
+  display: block;
+  width: 100%;
+  margin-top: 1rem;
+}
+#servicios-section .card-img-top {
+  height: 15rem;
+  object-fit: cover;
+}
+.project .card-img-top {
+  height: 12.5rem;
+}
